@@ -1,0 +1,15 @@
+/home/gaazoo/Desktop/C# course/First_lesson/Example_002/bin/Debug/net7.0/Example_002
+/home/gaazoo/Desktop/C# course/First_lesson/Example_002/bin/Debug/net7.0/Example_002.deps.json
+/home/gaazoo/Desktop/C# course/First_lesson/Example_002/bin/Debug/net7.0/Example_002.runtimeconfig.json
+/home/gaazoo/Desktop/C# course/First_lesson/Example_002/bin/Debug/net7.0/Example_002.dll
+/home/gaazoo/Desktop/C# course/First_lesson/Example_002/bin/Debug/net7.0/Example_002.pdb
+/home/gaazoo/Desktop/C# course/First_lesson/Example_002/obj/Debug/net7.0/Example_002.csproj.AssemblyReference.cache
+/home/gaazoo/Desktop/C# course/First_lesson/Example_002/obj/Debug/net7.0/Example_002.GeneratedMSBuildEditorConfig.editorconfig
+/home/gaazoo/Desktop/C# course/First_lesson/Example_002/obj/Debug/net7.0/Example_002.AssemblyInfoInputs.cache
+/home/gaazoo/Desktop/C# course/First_lesson/Example_002/obj/Debug/net7.0/Example_002.AssemblyInfo.cs
+/home/gaazoo/Desktop/C# course/First_lesson/Example_002/obj/Debug/net7.0/Example_002.csproj.CoreCompileInputs.cache
+/home/gaazoo/Desktop/C# course/First_lesson/Example_002/obj/Debug/net7.0/Example_002.dll
+/home/gaazoo/Desktop/C# course/First_lesson/Example_002/obj/Debug/net7.0/refint/Example_002.dll
+/home/gaazoo/Desktop/C# course/First_lesson/Example_002/obj/Debug/net7.0/Example_002.pdb
+/home/gaazoo/Desktop/C# course/First_lesson/Example_002/obj/Debug/net7.0/Example_002.genruntimeconfig.cache
+/home/gaazoo/Desktop/C# course/First_lesson/Example_002/obj/Debug/net7.0/ref/Example_002.dll
